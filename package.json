@@ -1,0 +1,27 @@
+{
+  "name": "besv",
+  "version": "1.0.0",
+  "description": "Nodejs Sever",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thanh10101/Backend-Sever.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "TrinhThanh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thanh10101/Backend-Sever/issues"
+  },
+  "homepage": "https://github.com/Thanh10101/Backend-Sever#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
